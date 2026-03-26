@@ -1,0 +1,14 @@
+{
+  "name": "PracticeNest",
+  "short_name": "PracticeNest",
+  "description": "NCERT/CBSE worksheets — 10 minutes a day. Real progress.",
+  "start_url": "/PracticeNest/",
+  "display": "standalone",
+  "background_color": "#6C63FF",
+  "theme_color": "#6C63FF",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "icon.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
